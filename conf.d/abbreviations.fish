@@ -1,4 +1,4 @@
-abbr -a -- adc 'aider --commit'
+abbr -a -- aic 'aider --commit'
 abbr -a -- bmv bump-my-version
 abbr -a -- d. datagrip
 abbr -a -- drm 'docker ps -a --format "{{.ID}}" | xargs docker stop | xargs docker rm'

@@ -5,7 +5,6 @@ abbr -a -- drm 'docker ps -a --format "{{.ID}}" | xargs docker stop | xargs dock
 abbr -a -- ec 'emacsclient -nw'
 abbr -a -- f. find .
 abbr -a -- findf 'find . -type f'
-abbr -a -- ftp_concur_live lftp\ -u\ \'concur-sftp,!vY\]5dXz\;xVT\(P-Q\'\ -p\ 22\ sftp://10.176.34.53
 abbr -a -- g git
 abbr -a -- gbv git branch -avv
 abbr -a -- gcp 'git commit -am WIP && git push'

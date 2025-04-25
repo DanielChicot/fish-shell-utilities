@@ -1,8 +1,4 @@
-abbr -a -- ad 'aider --dark-mode --model'
-abbr -a -- admc 'aider --dark-mode --model openrouter/anthropic/claude-3.5-sonnet'
-abbr -a -- admd 'aider --dark-mode --model openrouter/deepseek/deepseek-chat'
-abbr -a -- admg 'aider --dark-mode --model gemini'
-abbr -a -- admo 'aider --dark-mode --model openrouter/openai/o1'
+abbr -a -- adc 'aider --commit'
 abbr -a -- bmv bump-my-version
 abbr -a -- d. datagrip
 abbr -a -- drm 'docker ps -a --format "{{.ID}}" | xargs docker stop | xargs docker rm'

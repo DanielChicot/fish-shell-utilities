@@ -61,6 +61,7 @@ abbr -a -- po poetry
 abbr -a -- r 'make run'
 abbr -a -- rcli 'docker exec -it concur-employee-listener-db-1 redis-cli --no-auth-warning -a password'
 abbr -a -- sis sort_in_situ
+abbr -a -- t task
 abbr -a -- tango 'it2profile -s tango'
 abbr -a -- tf terraform
 abbr -a -- tfa terraform apply

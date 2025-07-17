@@ -38,9 +38,9 @@ abbr -a -- kextprod 'kubectx aks-intl-prod-01-external'
 abbr -a -- kextt 'kubectx aks-intl-test-01-external'
 abbr -a -- kmicro 'kubectx microk8s'
 abbr -a -- kns kubens
-abbr -a -- kprep 'kubectx aks-intl-pre-prod-01-euwest-gen-01'
-abbr -a -- kprod 'kubectx aks-intl-prod-01-euwest-gen-01'
-abbr -a -- ktest 'kubectx aks-intl-test-01-euwest-gen-01'
+abbr -a -- kprep 'kubectx preprod'
+abbr -a -- kprod 'kubectx production'
+abbr -a -- ktest 'kubectx test'
 abbr -a -- ltr 'eza --sort modified --reverse --icons --long'
 abbr -a -- lwc "tr '[[:upper:]]' '[[:lower:]]'"
 abbr -a -- les bat

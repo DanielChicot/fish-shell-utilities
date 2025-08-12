@@ -7,6 +7,7 @@ abbr -a -- ec 'emacsclient -nw'
 abbr -a -- f. find .
 abbr -a -- findf 'find . -type f'
 abbr -a -- g git
+abbr -a -- ga. git add .
 abbr -a -- gbv git branch -avv
 abbr -a -- gcp 'git commit -am WIP && git push'
 abbr -a -- gcps 'git commit -am WIP && git push -o ci.skip'

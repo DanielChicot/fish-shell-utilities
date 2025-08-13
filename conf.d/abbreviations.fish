@@ -12,6 +12,7 @@ abbr -a -- gbv git branch -avv
 abbr -a -- gcp 'git commit -am WIP && git push'
 abbr -a -- gcps 'git commit -am WIP && git push -o ci.skip'
 abbr -a -- gfat 'git fetch --all --prune --tags'
+abbr -a -- gwtrmf 'git worktree remove --force'
 abbr -a -- gg 'git grep'
 abbr -a -- ghc 'gh copilot'
 abbr -a -- gl glab

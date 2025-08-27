@@ -1,6 +1,8 @@
 abbr -a -- aic 'aider --commit'
 abbr -a -- aicg 'aider --commit --no-gitignore'
 abbr -a -- bmv bump-my-version
+abbr -a -- cl claude
+abbr -a -- clc claude --continue
 abbr -a -- d. 'datagrip .'
 abbr -a -- dkcud 'docker compose up -d'
 abbr -a -- drm 'docker ps -a --format "{{.ID}}" | xargs docker stop | xargs docker rm'

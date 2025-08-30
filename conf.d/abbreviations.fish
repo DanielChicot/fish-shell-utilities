@@ -76,6 +76,7 @@ abbr -a -- ur uv run
 abbr -a -- vi nvim
 abbr -a -- w. 'webstorm .'
 abbr -a -- xmlf 'xmllint --format'
+abbr -a -- z zoxide
 abbr -a -- zai z ai-services
 abbr -a -- zpq z document-processing-queue
 abbr -a -- zor z orchestration

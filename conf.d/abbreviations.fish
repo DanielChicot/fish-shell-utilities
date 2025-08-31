@@ -3,6 +3,7 @@ abbr -a -- aicg 'aider --commit --no-gitignore'
 abbr -a -- bmv bump-my-version
 abbr -a -- cl claude
 abbr -a -- clc claude --continue
+abbr -a -- clr claude --resume
 abbr -a -- d. 'datagrip .'
 abbr -a -- dkcud 'docker compose up -d'
 abbr -a -- drm 'docker ps -a --format "{{.ID}}" | xargs docker stop | xargs docker rm'
@@ -61,14 +62,13 @@ abbr -a -- ol ollama
 abbr -a -- p. 'pycharm .'
 abbr -a -- pbc pbcopy
 abbr -a -- pbp pbpaste
-abbr -a -- pi 'ssh -X pi@192.168.1.186'
+abbr -a -- pi 'ssh -X pi@192.168.178.100'
 abbr -a -- po poetry
 abbr -a -- r 'make run'
 abbr -a -- rcli 'docker exec -it concur-employee-listener-db-1 redis-cli --no-auth-warning -a password'
 abbr -a -- sis sort_in_situ
 abbr -a -- t task
 abbr -a -- tb task bootstrap
-abbr -a -- tango 'it2profile -s tango'
 abbr -a -- tf terraform
 abbr -a -- tfa terraform apply
 abbr -a -- tfp terraform plan
@@ -76,8 +76,3 @@ abbr -a -- ur uv run
 abbr -a -- vi nvim
 abbr -a -- w. 'webstorm .'
 abbr -a -- xmlf 'xmllint --format'
-abbr -a -- zai z ai-services
-abbr -a -- zpq z document-processing-queue
-abbr -a -- zor z orchestration
-abbr -a -- zst z butterflai-system-tests
-abbr -a -- zui z butterflai-ui

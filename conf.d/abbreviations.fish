@@ -24,6 +24,7 @@ abbr -a -- gmoc 'git merge origin/(git_current_branch)'
 abbr -a -- gncp 'git commit -anm WIP && git push --no-verify'
 abbr -a -- gpo 'git push origin :'
 abbr -a -- gs 'git switch'
+abbr -a -- h 'helm'
 abbr -a -- hm 'history merge'
 abbr -a -- hs 'history search'
 abbr -a -- ic "jf rt s docker/ | jq -r '.[].path' | cut -f1-3 -d'/' | sort | uniq | cut -f1-2 -d'/' | sort | uniq -c | sort -n"

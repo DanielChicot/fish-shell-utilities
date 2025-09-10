@@ -18,6 +18,7 @@ abbr -a -- gcps 'git commit -am WIP && git push -o ci.skip'
 abbr -a -- gfat 'git fetch --all --prune --tags'
 abbr -a -- gwtrmf 'git worktree remove --force'
 abbr -a -- gg 'git grep'
+abbr -a -- gpnv git push --no-verify
 abbr -a -- ghc 'gh copilot'
 abbr -a -- gl glab
 abbr -a -- gmoc 'git merge origin/(git_current_branch)'

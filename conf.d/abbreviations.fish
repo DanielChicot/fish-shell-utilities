@@ -40,6 +40,7 @@ abbr -a -- jr just run
 abbr -a -- js just services
 abbr -a -- jsd just services-down
 abbr -a -- jt just tests
+abbr -a -- kcr kubectl create
 abbr -a -- ke 'kubectl exec'
 abbr -a -- kextpre 'kubectx aks-intl-pre-prod-01-external'
 abbr -a -- kextprod 'kubectx aks-intl-prod-01-external'

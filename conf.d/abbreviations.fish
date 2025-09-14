@@ -43,9 +43,9 @@ abbr -a -- jsd just services-down
 abbr -a -- jt just tests
 abbr -a -- kcr kubectl create
 abbr -a -- ke 'kubectl exec'
-abbr -a -- kextpre 'kubectx aks-intl-pre-prod-01-external'
-abbr -a -- kextprod 'kubectx aks-intl-prod-01-external'
-abbr -a -- kextt 'kubectx aks-intl-test-01-external'
+abbr -a -- kextpre 'kubectx preprod-ext'
+abbr -a -- kextprod 'kubectx prod-ext'
+abbr -a -- kextt 'kubectx test-ext'
 abbr -a -- klocal kubectx k3d-local
 abbr -a -- kmicro 'kubectx microk8s'
 abbr -a -- kns kubens

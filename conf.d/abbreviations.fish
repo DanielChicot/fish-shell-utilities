@@ -6,6 +6,7 @@ abbr -a -- clc claude --continue
 abbr -a -- clr claude --resume
 abbr -a -- d. 'datagrip .'
 abbr -a -- dkcud 'docker compose up -d'
+abbr -a -- dkls 'docker logs -f'
 abbr -a -- drm 'docker ps -a --format "{{.ID}}" | xargs docker stop | xargs docker rm'
 abbr -a -- ec 'emacsclient -nw'
 abbr -a -- f. find .

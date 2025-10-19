@@ -1,6 +1,7 @@
 abbr -a -- aic 'aider --commit'
 abbr -a -- aicg 'aider --commit --no-gitignore'
 abbr -a -- blj 'bat --language=json'
+abbr -a -- bly 'bat --language=yaml'
 abbr -a -- bmv bump-my-version
 abbr -a -- cl claude
 abbr -a -- clc claude --continue

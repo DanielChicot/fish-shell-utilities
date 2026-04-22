@@ -26,6 +26,7 @@ abbr -a -- gg 'git grep'
 abbr -a -- gpnv git push --no-verify
 abbr -a -- ghc 'gh copilot'
 abbr -a -- gl glab
+abbr -a -- glop glow --pager
 abbr -a -- gmoc 'git merge origin/(git_current_branch)'
 abbr -a -- gncp 'git commit -anm WIP && git push --no-verify'
 abbr -a -- gpo 'git push origin :'

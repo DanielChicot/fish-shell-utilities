@@ -86,6 +86,7 @@ abbr -a -- tf terraform
 abbr -a -- tfa terraform apply
 abbr -a -- tfp terraform plan
 abbr -a -- ur uv run
+abbr -a -- uc 'curl -fsSL https://claude.ai/install.sh | bash -s latest'
 abbr -a -- vi nvim
 abbr -a -- w. 'webstorm .'
 abbr -a -- xmlf 'xmllint --format'

@@ -73,7 +73,7 @@ abbr -a -- ol ollama
 abbr -a -- p. 'pycharm .'
 abbr -a -- pm 'pimpme'
 abbr -a -- pma 'pimpme -g aks'
-abbr -a -- pmrr 'pimpme -g reader-tenant-root-group --reason
+abbr -a -- pmrr 'pimpme -g reader-tenant-root-group --reason'
 abbr -a -- pbc pbcopy
 abbr -a -- pbp pbpaste
 abbr -a -- pi 'ssh -X pi@192.168.178.100'

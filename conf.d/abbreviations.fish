@@ -6,6 +6,8 @@ abbr -a -- bmv bump-my-version
 abbr -a -- cl claude
 abbr -a -- clc claude --continue
 abbr -a -- clr claude --resume
+abbr -a -- clw claude --worktree
+abbr -a -- clu claude update
 abbr -a -- d. 'datagrip .'
 abbr -a -- dkcud 'docker compose up -d'
 abbr -a -- dkcd 'docker compose down'
